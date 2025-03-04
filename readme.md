@@ -1,4 +1,4 @@
-# Awesome KAN(Kolmogorov-Arnold Network)
+# Awesome KAN (Kolmogorov-Arnold Network)
 
 
  [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Xatta-Trone/awesome-kan.svg?label=contributions)](https://github.com/Xatta-Trone/awesome-kan/pulls)  ![GitHub stars](https://img.shields.io/github/stars/Xatta-Trone/awesome-kan.svg?style=social)
